@@ -1,6 +1,6 @@
 # Potenciômetro com Arduino
 
-![schematic](docs/images/schematic.jpg)
+![schematic](docs/images/schematic.png)
 
 Este é um projeto simples de exemplo desenvolvido para demonstrar como lidar com potenciômetros utilizando a plataforma Arduino. Os potenciômetros são componentes úteis em uma variedade de projetos, como controle de velocidade de motores, ajuste de intensidade de luz em LEDs, e muito mais.
 
